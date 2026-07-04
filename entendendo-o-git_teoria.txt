@@ -1,0 +1,24 @@
+# O QUE É O GIT ? (De forma resumida)
+Git é uma maneira de você trabalhar com códigos onde cada alteração
+salva através do git resulta em uma versão diferente do código.
+
+# O QUE É O GIT ? (De forma aprofundada)
+Git é uma ferramenta que faz uma linha do tempo com o seu
+código, para ser mais preciso, ele pega cada alteração sua
+e coloca em versões diferentes.
+
+Vamos supor que você tenha um arquivo python(#1), neste
+arquivo tem 1 função que permite o usuário limpar a
+tela, você descide que é o momento de salvar, depois de
+salvar este arquivo usando o git, você descide criar mais
+uma função e dessa vez, a função é de mostrar uma mensagem
+de boas vindas ao usuário toda vez que ele entrar, você
+descide salvar novamente usando o git.
+
+Neste momento, o git tem 2 versões, uma que tem 1 função
+e a 2° versão que tem 2 funções(#2), só que por algum motivo a 2°
+versão está dando erro no programa, então a solução é voltar
+para a 1° versão e refazer a 2° função para que dê tudo certo.
+
+#1 - linguagem popular, provavelmente mais fácil de entender.
+#2 - O tanto de função não tem que ser igual ao tanto de versões.
